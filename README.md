@@ -1,4 +1,4 @@
-# ChestCTScanWatermarking
+# Watermarking of chest CT scan medical images for content authentication
  
 Group leader > 19L-1841 Muhammad Asad Bin Hameed
 Group member > 19L-2413 Syed Junaid Qutab
